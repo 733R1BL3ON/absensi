@@ -1,0 +1,28 @@
+.body{
+	border-radius : 20px;
+	height : 270px;
+	width : 900px;
+	margin-top : 60px;
+	margin-left : 200px;
+	background-color : #eee;
+	padding-left :40px;
+	padding-top : 20px;
+}
+h4{
+	margin-left : 40px;
+}
+.button1{
+	margin-top : 60px;
+}
+.button2{
+	margin-top : -46px;
+	margin-left : 120px;
+}
+.button3{
+	margin-top : -46px;
+	margin-left : 260px;
+}
+.button4{
+	margin-top : -46px;
+	margin-left : 400px;
+}
